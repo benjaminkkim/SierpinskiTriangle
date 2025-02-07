@@ -1,4 +1,4 @@
-int mouseSizeX = 0;
+int mouseSizeX = 500;
 int mouseSizeY = 500;
 int triangleLength = 250;
 public void setup() {
