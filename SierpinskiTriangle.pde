@@ -1,8 +1,8 @@
-int mouseSizeX = 500;
-int mouseSizeY = 500;
+int mouseSizeX = 280;
+int mouseSizeY = 520;
 int triangleLength = 250;
 public void setup() {
-  size(1000,1000);
+  size(800,800);
 }
 public void draw() {
   background(200);
